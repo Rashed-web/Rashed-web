@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Rashed-web
+# Hi there,
+
+- 👋 I’m @Rashed-web
 - 👀 I’m interested in web design and web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on as a freelancer 
